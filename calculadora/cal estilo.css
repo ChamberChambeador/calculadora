@@ -1,0 +1,74 @@
+#app8g{
+    height: 530px;
+    width: 400px;
+    border: 0.2rem solid black;
+    border-radius:1rem;
+}
+#app8g form{
+    height:100%;
+    width: 100%;
+    background-color: black;
+}
+#resultado{
+    height: 9.5rem;
+    width: 24.5rem;
+    text-align: right;
+    color: white;
+    background-color: black;
+    font-size: 4.5rem;
+    border-radius:2rem;
+    border:black;
+
+}
+.boton{
+    width: 22%;
+    cursor:pointer;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color:black;
+    padding:15px;
+    margin:4px;
+    border:0;
+    border-radius: 1.5rem;
+    background-color: rgb(240, 185, 83);
+}
+.boton1{
+    width: 22%;
+    cursor:pointer;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color:black;
+    padding:15px;
+    margin:4px;
+    border:0;
+    border-radius: 1.5rem;
+    background-color: rgb(255, 255, 255);
+}
+.boton:hover{
+    transition: 0.2s;
+    background-color:rgb(252, 143, 0);
+    color:white;
+}
+.boton1:hover{
+    transition: 0.3s;
+    background-color:rgb(231, 36, 22);
+    color:white;
+}
+.boton3{
+    width: 22%;
+    cursor:pointer;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color:black;
+    padding:15px;
+    margin:4px;
+    border:0;
+    border-radius: 1.5rem;
+    background-color:greenyellow;}
+    .boton3:hover{
+        transition: 0.3s;
+        background-color:rgb(6, 187, 0);
+        color:white;}
